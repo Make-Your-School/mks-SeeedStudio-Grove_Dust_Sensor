@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Dust_Senso
 repo_prefix: "mks"
 repo_part: "Grove_Dust_Sensor"
 embedded_example_file: "examples/Grove_Dust_Sensor_minimal/Grove_Dust_Sensor_minimal.ino"
+title: 'Feinstaubsensor'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
